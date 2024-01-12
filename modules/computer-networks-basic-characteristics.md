@@ -35,3 +35,5 @@
     - Availability
 
 ## Summary
+
+Effective computer networks are characterized by fault tolerance, ensuring continuous operation and no service loss, scalability to grow with user needs while maintaining performance, quality of service for prioritizing data types and managing traffic, and robust security to prevent unauthorized access and ensure data confidentiality and integrity.

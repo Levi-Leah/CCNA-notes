@@ -102,3 +102,5 @@
 ---
 
 ## Summary
+
+Data communication in computer networks involves the exchange of data between nodes through various forms of transmission, like simplex, half-duplex, and full-duplex. Network protocols define these communications, focusing on elements like encoding, formatting, and delivery options, including unicast, multicast, and broadcast. Peer-to-peer networks offer decentralized sharing with limited scalability, while client-server networks provide centralized control and are scalable but risk server overload.

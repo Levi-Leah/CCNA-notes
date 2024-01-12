@@ -29,3 +29,5 @@
     - Intermediary device - routes data
 
 ## Summary
+
+A computer network consists of interconnected nodes, such as computers, servers, printers, IoT devices, and routers, linked by wired or wireless communication channels. Its primary purpose is resource sharing, with end devices initiating or receiving data requests and intermediary devices routing this data.
